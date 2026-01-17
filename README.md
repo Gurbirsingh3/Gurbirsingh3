@@ -44,7 +44,7 @@ To work as a **Data Analyst** in a growth-oriented organization where I can appl
 ## 📫 Connect With Me  
 
 🔗 GitHub: https://github.com/Gurbirsingh3  
-🔗 LinkedIn: (Add your LinkedIn profile link here)  
+🔗 LinkedIn: https://www.linkedin.com/in/gurbir-singh-8b5020389/  
 
 ---
 
