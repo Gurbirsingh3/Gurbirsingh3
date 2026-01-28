@@ -2,7 +2,7 @@
 
 🚀 Aspiring Data Analyst | SQL | Python | Power BI | Tableau | Excel  
 
-I am a passionate Data Analytics learner with hands-on experience in data cleaning, visualization, and business insights generation. I enjoy working with real-world datasets and transforming raw data into meaningful dashboards and reports.
+I am an Aspiring Data Analyst with hands-on experience in data cleaning, exploratory data analysis, and data visualization. I enjoy working with real-world datasets and transforming raw data into meaningful insights that support data-driven decision making.
 
 ---
 
@@ -10,41 +10,46 @@ I am a passionate Data Analytics learner with hands-on experience in data cleani
 
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Databases:** SQL (Joins, Subqueries, Window Functions)  
-- **Visualization:** Power BI, Tableau  
+- **Data Visualization:** Power BI, Tableau  
 - **Spreadsheets:** Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP)  
-- **Other:** Data Cleaning, EDA, Business Reporting  
+- **Analytics:** Data Cleaning, EDA, Business Reporting  
 
 ---
 
-## 📊 Featured Projects  
+## 📊 Projects  
 
 ### 📌 Sales Performance Dashboard  
 **Tools:** Power BI, Excel  
-- Created interactive dashboards to track revenue, profit, and regional performance  
-- Built KPI cards and time-based analysis  
-
-### 📌 SQL Data Analysis Project  
-**Tools:** SQL  
-- Cleaned raw data and handled missing values  
-- Used joins, aggregations, and window functions for business insights  
-
-### 📌 Python Data Analysis Project  
-**Tools:** Python, Pandas, Matplotlib, Seaborn  
-- Performed Exploratory Data Analysis (EDA)  
-- Visualized trends and patterns to support decision making  
+- Developed interactive dashboards to analyze sales performance, revenue, and profit  
+- Created KPI cards and time-based trend analysis to support business insights  
 
 ---
 
-## 🎯 Career Goal  
+### 📌 SQL Data Analysis Project  
+**Tools:** SQL  
+- Cleaned and transformed raw datasets  
+- Used joins, aggregations, and window functions to derive actionable insights  
 
-To work as a **Data Analyst** in a growth-oriented organization where I can apply analytical skills to solve business problems and contribute to data-driven decision making.  
+---
+
+### 📌 Python Data Analysis Project  
+**Tools:** Python, Pandas, Matplotlib, Seaborn  
+- Performed Exploratory Data Analysis (EDA) on real-world datasets  
+- Visualized patterns and trends to support decision making  
+
+---
+
+## 🎯 Career Objective  
+
+My goal is to secure an **entry-level Data Analyst / Junior Data Analyst / MIS / Reporting Analyst** role where I can apply my analytical skills, continue learning, and contribute to solving real business problems.  
+I am focused on building strong industry experience with an aim to grow towards global opportunities in the future.
 
 ---
 
 ## 📫 Connect With Me  
 
-🔗 GitHub: https://github.com/Gurbirsingh3  
-🔗 LinkedIn: https://www.linkedin.com/in/gurbir-singh-8b5020389/  
+🔗 **GitHub:** https://github.com/Gurbirsingh3  
+🔗 **LinkedIn:** https://www.linkedin.com/in/gurbir-singh-8b5020389/  
 
 ---
 
