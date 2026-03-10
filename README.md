@@ -2,10 +2,9 @@
 
 ## 📊 Aspiring Data Analyst | MIS Executive | Excel Automation | MIS Analyst | Reporting Analyst | Excel Analyst | Operations MIS Executive
 
-I am an MIS professional with **12+ years of experience in data reporting, Excel automation, and business analysis**.
-I specialize in building **Excel-based MIS systems, automated dashboards, and data-driven reporting tools** that support real business decision-making.
+I have **12+ years of experience in retail showroom operations**, where I developed strong expertise in **Excel-based reporting, MIS preparation, and business data analysis**. I build **automated Excel dashboards, sales MIS reports, and performance tracking tools** that support data-driven decision-making.
 
-My work focuses on transforming **raw data into clear insights** that help organizations track performance, monitor KPIs, and improve operational efficiency.
+I enjoy transforming **raw business data into actionable insights** that help teams monitor KPIs, analyze sales trends, and improve operational efficiency.
 
 ---
 
