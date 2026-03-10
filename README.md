@@ -1,56 +1,27 @@
-# 👋 Hi, I'm Gurbir Singh  
+# 👋 Hi, I'm Gurbir Singh
 
-🚀 Aspiring Data Analyst | SQL | Python | Power BI | Tableau | Excel  
+## 📊 MIS Executive & Excel Specialist — 12+ Years of Experience
 
-I am an Aspiring Data Analyst with hands-on experience in data cleaning, exploratory data analysis, and data visualization. I enjoy working with real-world datasets and transforming raw data into meaningful insights that support data-driven decision making.
+I build Excel-based MIS systems, automated reporting dashboards,
+and data-driven decision tools for real business operations.
 
----
+### 🔧 Core Skills (Now):
+- Advanced Excel: Pivot Tables, VLOOKUP/XLOOKUP, INDEX-MATCH, SUMIFS
+- Power Query | Macros & VBA Basics
+- Dynamic Dashboards | KPI Reporting | Variance Analysis
+- MIS Reporting: Sales, Inventory, Financial, P&L
 
-## 🔧 Skills & Tools  
+### 📈 Expanding Into (Future):
+- SQL → Python → Power BI → Tableau
 
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Databases:** SQL (Joins, Subqueries, Window Functions)  
-- **Data Visualization:** Power BI, Tableau  
-- **Spreadsheets:** Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP)  
-- **Analytics:** Data Cleaning, EDA, Business Reporting  
+### 🎯 Goal: 
+            Transition into a full Data Analyst role after mastering
+            industry-standard tools alongside my Excel foundation.
 
----
+### 📁 Projects here focus on:
+  ✅ Excel MIS Dashboards
+  ✅ Inventory Trackers
+  ✅ Financial Variance Reports
+  ✅ Automated Reporting Templates
 
-## 📊 Projects  
-
-### 📌 Sales Performance Dashboard  
-**Tools:** Power BI, Excel  
-- Developed interactive dashboards to analyze sales performance, revenue, and profit  
-- Created KPI cards and time-based trend analysis to support business insights  
-
----
-
-### 📌 SQL Data Analysis Project  
-**Tools:** SQL  
-- Cleaned and transformed raw datasets  
-- Used joins, aggregations, and window functions to derive actionable insights  
-
----
-
-### 📌 Python Data Analysis Project  
-**Tools:** Python, Pandas, Matplotlib, Seaborn  
-- Performed Exploratory Data Analysis (EDA) on real-world datasets  
-- Visualized patterns and trends to support decision making  
-
----
-
-## 🎯 Career Objective  
-
-My goal is to secure an **entry-level Data Analyst / Junior Data Analyst / MIS / Reporting Analyst** role where I can apply my analytical skills, continue learning, and contribute to solving real business problems.  
-I am focused on building strong industry experience with an aim to grow towards global opportunities in the future.
-
----
-
-## 📫 Connect With Me  
-
-🔗 **GitHub:** https://github.com/Gurbirsingh3  
-🔗 **LinkedIn:** https://www.linkedin.com/in/gurbir-singh-8b5020389/  
-
----
-
-⭐ If you find my projects useful, feel free to star my repositories!
+### ⭐ If my work helps you, feel free to star the repos!
