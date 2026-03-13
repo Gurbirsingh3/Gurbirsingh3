@@ -50,8 +50,11 @@ To transition into a **full Data Analyst role**, I am expanding my skillset in m
 This repository includes practical projects focused on business reporting and automation:
 
 ✅ Excel MIS Dashboards
+
 ✅ Inventory Management Trackers
+
 ✅ Financial Variance Analysis Reports
+
 ✅ Automated Excel Reporting Templates
 
 Each project is designed to solve **real-world business reporting problems using Excel and data analysis techniques.**
