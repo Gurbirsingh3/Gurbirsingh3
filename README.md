@@ -1,70 +1,88 @@
 # 👋 Hi, I'm Gurbir Singh
 
-## 📊 Aspiring Data Analyst | MIS Executive | Excel Automation | MIS Analyst | Reporting Analyst | Excel Analyst | Operations MIS Executive
-
-I have **12+ years of experience in retail showroom operations**, where I developed strong expertise in **Excel-based reporting, MIS preparation, and business data analysis**. I build **automated Excel dashboards, sales MIS reports, and performance tracking tools** that support data-driven decision-making.
-
-I enjoy transforming **raw business data into actionable insights** that help teams monitor KPIs, analyze sales trends, and improve operational efficiency.
+📊 **Data Analyst | MIS Executive | Power BI | Tableau | Excel Automation**
 
 ---
 
-## 🔧 Core Skills
+## 🚀 About Me
 
-**Advanced Excel**
+I am a results-driven **MIS Executive & Data Analyst** with 12+ years of experience in retail operations and business data analysis.
 
-* Pivot Tables & Pivot Charts
-* VLOOKUP / XLOOKUP
-* INDEX + MATCH
-* SUMIFS / COUNTIFS
-* Conditional Formatting
+I specialize in building **automated Excel dashboards, MIS reporting systems, and interactive BI dashboards** that help businesses make data-driven decisions.
 
-**Automation & Data Handling**
+💡 I transform raw data into meaningful insights to improve:
 
-* Power Query
-* Macros & VBA (Basic)
-* Dynamic Excel Dashboards
-* KPI Reporting & Variance Analysis
-
-**MIS Reporting**
-
-* Sales MIS Reports
-* Inventory Tracking Systems
-* Financial MIS & P&L Analysis
-* Business Performance Reports
+* Sales performance
+* Inventory management
+* Financial reporting (P&L)
+* Business efficiency
 
 ---
 
-## 📈 Currently Learning
+## 🛠️ Skills
 
-To transition into a **full Data Analyst role**, I am expanding my skillset in modern analytics tools:
+### 📊 Data & BI Tools
 
-➡ SQL (Data Querying & Databases)
-➡ Python (Data Analysis & Automation)
-➡ Power BI (Interactive Dashboards)
-➡ Tableau (Data Visualization)
+* Power BI (DAX, Data Modeling, Dashboards)
+* Tableau (Visualizations, Filters, Dashboards)
+* Excel (Advanced Formulas, Pivot Tables, Power Query, VBA)
 
----
+### 🗄️ Data Handling
 
-## 📁 Featured Projects
+* SQL (Joins, Aggregations, Queries)
+* Python (Pandas, NumPy, Data Cleaning, EDA)
 
-This repository includes practical projects focused on business reporting and automation:
+### 📈 Analytics
 
-✅ Excel MIS Dashboards
-
-✅ Inventory Management Trackers
-
-✅ Financial Variance Analysis Reports
-
-✅ Automated Excel Reporting Templates
-
-Each project is designed to solve **real-world business reporting problems using Excel and data analysis techniques.**
+* KPI Reporting
+* Data Visualization
+* Trend Analysis
+* Variance Analysis
 
 ---
 
-## 🎯 Career Goal
+## 📂 Projects
 
-My goal is to **transition into a Data Analyst role** by combining my **strong Excel foundation with modern analytics tools** like SQL, Python, and Power BI.
+### 🔹 Sales Dashboard (Power BI)
+
+* Built interactive dashboard with KPI tracking
+* Analyzed revenue trends and regional performance
+* Used DAX for calculated measures
+
+### 🔹 Inventory Management System (Excel)
+
+* Automated 200+ SKU tracking system
+* Reduced overstock and stockouts by 20–25%
+* Created alert-based dashboard
+
+### 🔹 MIS Reporting Automation
+
+* Automated monthly reports using Excel + VBA
+* Reduced reporting time by **80%**
+
+### 🔹 Tableau Sales Analysis
+
+* Created interactive dashboards with filters & heatmaps
+* Identified category-level performance trends
 
 ---
 
-⭐ If you find my work useful, feel free to **star the repositories** or connect with me!
+## 📊 Tools & Technologies
+
+Excel | Power BI | Tableau | SQL | Python | Power Query | VBA
+
+---
+
+## 📫 Contact Me
+
+👤 **Gurbir Singh**
+📧 [gurbirsingh3x@gmail.com](mailto:gurbirsingh3x@gmail.com)
+📞 7355000111
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as a **Data Analyst | Junior Data Analyst | MIS Executive | Business Analyst**, where I can combine business understanding with data analytics to deliver impactful insights.
+
+---
