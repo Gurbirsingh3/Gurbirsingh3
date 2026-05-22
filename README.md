@@ -2,7 +2,7 @@
 
 📊 **Data Analyst | MIS Executive | Power BI | Tableau | SQL | Python | Excel Automation**
 
-🌏 **Open to Opportunities: India 🇮🇳 | Singapore 🇸🇬 | Malaysia 🇲🇾 | Remote 🌐**
+🌏 **Open to Opportunities: India 🇮🇳 | Singapore 🇸🇬 | Malaysia 🇲🇾 | In-site | Hybrid | Remote 🌐**
 
 ---
 
