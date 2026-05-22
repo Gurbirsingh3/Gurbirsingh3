@@ -53,8 +53,6 @@ I specialize in building **automated Excel dashboards, MIS reporting pipelines, 
 
 ## 📂 Featured Projects
 
-## 📂 Featured Projects
-
 ### 🔹 1. Customer Churn Analysis Dashboard (Power BI + SQL)
 - Analyzed customer behavior data to identify key reasons behind customer churn
 - Created interactive dashboards showing churn trends by region, product, and customer segment
