@@ -85,6 +85,8 @@ I specialize in building **automated Excel dashboards, MIS reporting pipelines, 
 - Helped improve operational visibility and faster decision-making across supply chain teams
 - **Tools:** Power BI · Power Query · Excel · DAX
 
+---
+
 ### 🔹 5. Retail Sales Analysis — Tableau
 - Interactive dashboard consolidating 5+ data sources
 - Improved category margins by estimated **15%**
