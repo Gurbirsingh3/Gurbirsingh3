@@ -53,35 +53,42 @@ I specialize in building **automated Excel dashboards, MIS reporting pipelines, 
 
 ## 📂 Featured Projects
 
-### 🔹 1. Monthly Sales MIS Dashboard (Excel)
-- Built dynamic Pivot Table dashboard with KPI tiles & Slicer filters
-- Macro-driven auto-refresh — reduced report prep from **4 hours to 30 minutes**
-- **Tools:** Advanced Excel · Pivot Tables · Macros/VBA · Power Query
+## 📂 Featured Projects
 
-### 🔹 2. Inventory Reorder Tracker (Excel)
-- Automated 200+ SKU tracking with red/amber/green alert system
-- Reduced excess holding costs by **20–25%**
-- **Tools:** Excel · Conditional Formatting · SUMIFS · IF Logic
+### 🔹 1. Customer Churn Analysis Dashboard (Power BI + SQL)
+- Analyzed customer behavior data to identify key reasons behind customer churn
+- Created interactive dashboards showing churn trends by region, product, and customer segment
+- Improved retention strategy insights by highlighting high-risk customer groups
+- **Tools:** Power BI · SQL · DAX · Data Modeling
 
-### 🔹 3. Sales Performance Dashboard (Power BI)
-- Multi-page Power BI report with DAX measures & drill-through pages
-- Star-schema data model — enabled **3x faster** management decisions
-- **Tools:** Power BI · DAX · Power Query · Data Modeling
+---
 
-### 🔹 4. Financial KPI Report (Power BI)
-- Budget vs Actuals variance tracking across 10+ categories
-- Waterfall charts flagging **>10% budget overruns** instantly
-- **Tools:** Power BI · DAX · Waterfall Charts · Card Visuals
+### 🔹 2. HR Analytics & Attrition Insights (Excel + Power BI)
+- Built HR dashboard tracking employee attrition, attendance, headcount, and department-wise performance
+- Identified major attrition drivers using KPI analysis and trend visualization
+- Automated monthly HR reporting, reducing manual work by **70%**
+- **Tools:** Power BI · Excel · Pivot Tables · DAX
+
+---
+
+### 🔹 3. E-Commerce Sales & Profit Analysis (Python + Tableau)
+- Performed Exploratory Data Analysis (EDA) on online retail sales data with **50,000+ transactions**
+- Discovered high-profit product categories and low-performing regions
+- Designed Tableau dashboard with dynamic filters, trend analysis, and profit heatmaps
+- **Tools:** Python · Pandas · Matplotlib · Tableau · SQL
+
+---
+
+### 🔹 4. Supply Chain & Logistics Performance Dashboard (Power BI)
+- Developed dashboard to monitor order delivery status, supplier performance, and warehouse efficiency
+- Created KPI alerts for delayed shipments and inventory shortages
+- Helped improve operational visibility and faster decision-making across supply chain teams
+- **Tools:** Power BI · Power Query · Excel · DAX
 
 ### 🔹 5. Retail Sales Analysis — Tableau
 - Interactive dashboard consolidating 5+ data sources
 - Improved category margins by estimated **15%**
 - **Tools:** Tableau · Calculated Fields · Heat Maps · Trend Lines
-
-### 🔹 6. Retail EDA & SQL Analysis (Python + SQL)
-- Extracted & analyzed **50,000+ rows** of sales data
-- Top 3 categories = **68% of total revenue** — actionable insight
-- **Tools:** Python · Pandas · NumPy · Matplotlib · SQL
 
 ---
 
